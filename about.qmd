@@ -3,7 +3,7 @@ title: "Kevin Kretschmer"
 about:
   id: template-area
   template: jolla
-  image: profile.png
+  image: profile.png.jpg
   links:
     - icon: twitter
       text: twitter
@@ -14,12 +14,6 @@ about:
 ---
 
 ## Tasks for this page
-
-* Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
-* Update the legal information
-* Write a short introduction set of you
-* delete this section
-
 
 :::{#template-area}
 
