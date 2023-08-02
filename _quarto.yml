@@ -4,7 +4,7 @@ project:
 website:
   site-url: https://kekret.github.io/
   repo-url: https://github.com/kekret/kekret.github.io/
-  favicon: favicon.png
+  favicon: favicon.png.jpg
   title: "Kevin Kretschmer"
   navbar:
     left:
